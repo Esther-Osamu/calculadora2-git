@@ -8,6 +8,5 @@ def subtrair(a, b):
 if __name__ == "__main__":
     print("Calculadora v1")
     print(somar(2, 3))
-    print(subtrair(5, 2))
-
+    print(subtrair(5, 2)) 
     
